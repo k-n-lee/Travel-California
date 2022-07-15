@@ -1,0 +1,12 @@
+.jumbotron {
+    position: relative;
+    width: 100%;
+    height: 800px;
+    background-image: url(../images/Background.jpg);
+    background-size: cover;
+    font-family: 'DM Serif Display', serif;
+}
+
+a {
+    background-color: whitesmoke;
+}
